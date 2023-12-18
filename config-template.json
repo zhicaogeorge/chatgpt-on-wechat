@@ -1,11 +1,11 @@
 {
   "channel_type": "wx",
   "model": "",
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "sk-FO0Fi2BCJI0EWFhD2e97C78159Cc4638A2F00c921f885b5b",
   "text_to_image": "dall-e-2",
   "voice_to_text": "openai",
   "text_to_voice": "openai",
-  "proxy": "",
+  "proxy": "https://openkey.cloud",
   "hot_reload": false,
   "single_chat_prefix": [
     "bot",
